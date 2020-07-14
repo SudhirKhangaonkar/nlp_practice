@@ -1,2 +1,2 @@
 # nlp_practice
-# In this i completed simple programming for practice of NLP.
+# In this i have completed simple programming examples for practice of NLP.
